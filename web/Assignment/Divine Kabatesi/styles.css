@@ -1,0 +1,40 @@
+h1{
+			box-shadow: 7px 3px 2px 7px;
+			border:solid 2px maroon;
+			border-radius: 7px;
+			width: 25cm;
+		}
+		a{text-decoration: none;
+color: darkblue;
+font-size: 20px;
+width: 10cm;
+margin-right: 29px;
+margin-bottom: 19px;
+box-shadow: 12px 2px 12px 2px;
+		}
+		img{
+			width: 400px;
+			height: 270px;
+		}
+		body{
+			background-color: lightsalmon;
+		}
+		 ul li{
+			font-size: 20px;
+		}
+		ol li{
+			font-size: 20px;
+		}
+		table{
+			width: 25cm;
+			border:solid 12px brown;
+			background-color: grey;
+			color: darkblue;
+			font-size: 27px;
+			box-shadow: 7px 2px 12px 4px;
+		}
+		h1{
+			color: darkblue;
+			font-family: Algerian;
+		font-size: 27px;
+		}

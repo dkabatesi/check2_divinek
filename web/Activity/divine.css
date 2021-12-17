@@ -1,0 +1,18 @@
+	body{
+			background-color: skyblue;
+			text-align: center;
+		}
+h1,h2,h3,h4{
+	font-family: arial;
+	color: maroon;
+	border-radius: 5px;
+	border-color: maroon;
+	box-shadow: 2px 3px 0px 7px;
+	width: 300px;
+	border-style: dotted dashed dashed;
+}
+p { color:white;
+	width: 300px;
+	font-size: 20px;
+
+}
